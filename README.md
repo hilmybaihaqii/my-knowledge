@@ -4,7 +4,7 @@ Hey there! If you're a student in tech, you've probably heard the term "cloud co
 
 ---
 
-## ## What is Cloud Computing, Really?
+## What is Cloud Computing, Really?
 
 Think of it like this: instead of storing all your files, software, and running all your applications on your own laptop's hard drive, you're using someone else's super-powerful computers over the internet. These computers are housed in massive data centers all over the world. You're essentially renting a small piece of their power.
 
@@ -17,11 +17,11 @@ You already use the cloud every day!
 
 ---
 
-## ## The Main Flavors of Cloud Computing 🍦
+## The Main Flavors of Cloud Computing 🍦
 
 Cloud computing comes in a few different "service models." It's like choosing the level of control you want.
 
-### ### 🍕 The Pizza-as-a-Service Analogy
+### 🍕 The Pizza-as-a-Service Analogy
 
 Imagine you want to eat pizza. You have a few options:
 
@@ -35,7 +35,7 @@ Imagine you want to eat pizza. You have a few options:
 
 ---
 
-## ## Types of Clouds: Where Does the Magic Happen?
+## Types of Clouds: Where Does the Magic Happen?
 
 There are also different "deployment models" for the cloud.
 
@@ -47,7 +47,7 @@ There are also different "deployment models" for the cloud.
 
 ---
 
-## ## Why Should You, as a Student, Care? 👨‍💻
+## Why Should You, as a Student, Care? 👨‍💻
 
 * **Build Cool Projects:** You can spin up a powerful server in minutes to host your new web app, run a machine learning model, or host a game server for you and your friends. All without buying expensive hardware.
 * **Learn In-Demand Skills:** Knowledge of cloud platforms like AWS, GCP, or Azure is a huge plus on your resume. Many companies are looking for graduates who understand the cloud.
